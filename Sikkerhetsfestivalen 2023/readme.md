@@ -1,1 +1,3 @@
-x
+30 Aug 2023 Advanced malware in 2023. How prepared are you?
+
+Slides: not available yet...
