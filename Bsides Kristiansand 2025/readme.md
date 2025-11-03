@@ -1,4 +1,4 @@
-28 Aug 2024 High Performance Fuzzing
+6 June 2025 EDR Evasion 101
 
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7337746553954078720/)
 
