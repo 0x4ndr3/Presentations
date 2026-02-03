@@ -10,3 +10,4 @@
 | 27 Nov 2024 | [TIBER-EU Provider Conference 2024](/TIBER-EU%20Provider%20Conference%202024) | Not all TIBERs are made equal | No |
 | 6 Jun 2025 | [Bsides Kristiansand 2025](/Bsides%20Kristiansand%202025) | EDR Evasion 101: in a professional hacker Red Team | No |
 | 26 Aug 2025 | [Sikkerhetsfestivalen 2025](/Sikkerhetsfestivalen%202025) | Malware detection... with type-1 hypervisors | No |
+| 28 Jan 2026 | [Vinterkonferansen 2026](/ISF%20Vinterkonferansen%202026) | Modern Advanced Cyber-Attacks (a practical demonstration) in 2026, and the Impact at the Threat Intel Level | No |
